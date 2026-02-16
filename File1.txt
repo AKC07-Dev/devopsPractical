@@ -2,3 +2,6 @@ Hello this is my first file in this repo created using git bash and i'm doing a 
 
 
 great, push worked, now heading towards the pull request!!
+
+
+superb, push pull both things are working perfectly! concepts almost clear
